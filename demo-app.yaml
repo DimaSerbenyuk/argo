@@ -20,6 +20,8 @@ spec:
         value: "8082"
       - name: "replicaCount"
         value: "4"
+        
+        
 
         
 
